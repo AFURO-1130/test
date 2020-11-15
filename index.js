@@ -10,24 +10,24 @@ const quiz = [
         correct:"Vした方がよい"
     },
     {
-        question: "９９＋１は？",
+        question: "on purposeは？",
         answers:[
-            "１００",
-            "２００",
-            "３００",
-            "４００"
+            "強制的に",
+            "故意に",
+            "〜次第に",
+            "〜の目的で"
         ],
-        correct:"１００"
+        correct:"故意に"
     },
     {
-        question: "１＋６は？",
+        question: "Σ☜これは何でしょう？？？",
         answers:[
-            "2",
-            "3",
-            "4",
-            "７"
+            "ゼット",
+            "エム",
+            "シグマ",
+            "イプシロン"
         ],
-        correct:"７"
+        correct:"シグマ"
     },
 ];
    
